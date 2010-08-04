@@ -1,7 +1,0 @@
-h1. Flag Show - Country Flags in your Rails App
-
-Use this plugin (Gem whatever it becomes) to show a country's flag in your views.
-
-It will probably be a helper you pass a country too and flag_show will then stick the flag and country initials beside it.
-
-First we'll put the flags into the public/images directory using the rake task: rake flag_show:move_flags
